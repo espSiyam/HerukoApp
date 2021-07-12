@@ -1,4 +1,4 @@
-# Irish Flower Classification Flask App
+# Iris Flower Classification Flask App
 
 Live access (deployed on Heruko): https://irishtest.herokuapp.com/
 
